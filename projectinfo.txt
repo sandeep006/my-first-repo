@@ -1,0 +1,1 @@
+To create a secure gateway for the payments to done successfuly. Devloper must work on it to provide highly secure coonection for payment gateway.
